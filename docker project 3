@@ -1,0 +1,10 @@
+created a account on droplet 
+set up a virtual machine running linux ubuntu used a pre made instance that already had docker installed 
+setup docker, funny enough still had to sudo snap install docker, lol
+installed wireguard created a private and public key 
+I was able to use winspc to log into the virtual machine and pull out the config file onto my computer 
+used this file to set up wireguard on my pc was aple to activate and get wire guard tunnel working 
+after this I got wireguard installed on my phone 
+was able to use this command: docker-compose logs -f wireguard to make wireguard give me a qr code 
+I was able to use the wireguard app to scan the qr code and get that activated on my phone 
+  
